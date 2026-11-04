@@ -1,0 +1,41 @@
+JARVIS Copyright License
+========================
+
+Project Title: JARVIS
+Authors: Christian Pavlovich and Robert Bottomley
+Repository: https://github.com
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0). 
+
+----------------------------------------------------------------------
+IN PLAIN TERMS:
+----------------------------------------------------------------------
+You are free to copy, distribute, transmit, and adapt this software 
+for educational, personal, or classroom use, provided that you adhere 
+to the following terms:
+
+1. ATTRIBUTION: You must give appropriate credit to Christian Pavlovich 
+   and Robert Bottomley, provide a link to the original repository 
+   (https://github.com), and 
+   indicate if any modifications or changes were made to the code.
+
+2. NON-COMMERCIAL: You may not use this material, or any derivative 
+   works built from it, for commercial purposes or monetary compensation.
+
+3. SHARE-ALIKE: If you remix, transform, or build upon this software, 
+   you must distribute your contributions under the exact same 
+   CC BY-NC-SA 4.0 license as the original.
+
+----------------------------------------------------------------------
+OFFICIAL LICENSE DEED & LEGAL CODE:
+----------------------------------------------------------------------
+To view the official summary deed and full legal conditions of this 
+license, please visit the Creative Commons website at:
+https://creativecommons.org
+
+----------------------------------------------------------------------
+DISCLAIMER:
+----------------------------------------------------------------------
+This software is provided "as is", without warranty of any kind, 
+express or implied. In no event shall the authors be liable for any 
+claim, damages, or other liability arising from the use of this software.
