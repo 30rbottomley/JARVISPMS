@@ -48,9 +48,10 @@ You do not need to know how to code. You will copy and paste a few things.
 
 SET-UP
 ------
-
   1. GET THE FILES. On the project page choose Code, then Download ZIP, and
      unzip it.
+
+1A. DURING SETUP, DO NOT USE THE TEMPORARY.TXT FILES! DELETE THOSE NOW! PLEASE CHECK ALL FOLDERS FOR TEMPORARY.TXT FILES.
 
   2. CREATE A SUPABASE PROJECT. Click New project, give it a name, save the
      database password somewhere safe, and pick a region close to you. Then
