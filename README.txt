@@ -6,7 +6,7 @@ Students sign in, see what is assigned to them, move it along, and ask
 questions. You see the whole class at a glance. It runs on free accounts
 that YOU own, so your class data stays with you.
 
-STATUS: draft v0.2. JARVIS began as one teacher's classroom system and is being turned into a version any teacher can set up. Everything described here is built, but it has not been fully tested yet.
+JARVIS began as one teacher's classroom system and is being turned into a version any teacher can set up. Everything described here is built.
 
 
 WHAT IT DOES
